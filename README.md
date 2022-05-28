@@ -6,6 +6,7 @@
   
 - <b>Cloud Security & Virtualization (Microsoft Azure)</b>
   - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.(https://github.com/joshmadakor1/Algorithms-Practice)
+  
 - <b>Ethical Hacking & Penetration</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Cybersecurity & Networking</b>
@@ -13,6 +14,7 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  
 - <b>Systems</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
