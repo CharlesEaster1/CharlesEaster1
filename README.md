@@ -1,9 +1,10 @@
 <h1>Hello, my name is Charles.  <br/><a href="https://github.com/CharlesEaster1"></a><a href="linkedin.com/in/charlesmeaster">Cybersecurity Professional</a>
 
 <h2>Cybersecurity Projects:</h2>
-
+- <b>Defensive Security</b>
+  - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.(https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Cloud Security & Virtualization (Microsoft Azure)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.(https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Ethical Hacking & Penetration</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Cybersecurity & Networking</b>
