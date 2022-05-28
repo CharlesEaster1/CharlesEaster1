@@ -1,13 +1,13 @@
 <h1>Hello, my name is Charles.  <br/><a href="https://github.com/CharlesEaster1"></a><a href="linkedin.com/in/charlesmeaster">Cybersecurity Professional</a>
 
 <h2>Cybersecurity Projects:</h2>
-- <b>Defensive Security</b>
+<b>Defensive Security</b>
+  - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.(          (https://github.com/joshmadakor1/Algorithms-Practice)
+  
+<b>Cloud Security & Virtualization (Microsoft Azure)</b>
   - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.(https://github.com/joshmadakor1/Algorithms-Practice)
   
-- <b>Cloud Security & Virtualization (Microsoft Azure)</b>
-  - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.(https://github.com/joshmadakor1/Algorithms-Practice)
-  
-- <b>Ethical Hacking & Penetration</b>
+<b>Ethical Hacking & Penetration</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Cybersecurity & Networking</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -15,11 +15,12 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
-- <b>Systems</b>
+<b>Systems</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Programming & Scripting: Python</b>
+  
+<b>Programming & Scripting: Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
 <h2>Certifications</h2>
