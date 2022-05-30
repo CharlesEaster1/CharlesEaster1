@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 <b>Defensive Security</b>
-  - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.(          (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Monitoring failed Rdp login attempts with Micrsoft Sentinel (SIEM). Logging data and monitoring activity in real time.(          (https://github.com/joshmadakor1/Algorithms-Practice)
   
 <b>Cloud Security & Virtualization (Microsoft Azure)</b>
   - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.(https://github.com/joshmadakor1/Algorithms-Practice)
