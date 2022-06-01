@@ -5,7 +5,8 @@
   - Monitoring failed Rdp login attempts with Micrsoft Sentinel (SIEM). Logging data and monitoring activity in real time.(          (https://github.com/joshmadakor1/Algorithms-Practice)
   
 <b>Cloud Security & Virtualization (Microsoft Azure)</b>
-  - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.(https://github.com/joshmadakor1/Algorithms-Practice)
+  - Monitoring failed Rdp login attempts with Micrsoft Sentinel SIEM). Logging data and monitoring activity in real time.
+  https://github.com/CharlesEaster1/Failed_Rdp_Logins_AzureSentinel/blob/main/README.md
   
 <b>Ethical Hacking & Penetration</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
