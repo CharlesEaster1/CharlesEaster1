@@ -18,10 +18,8 @@
   
 - <b>Microsoft Azure Fundamentals)</b>
 - <b>Certified Ethical Hacker (in progress)</b>
-- <b>Splunk 7.x Fundamentals Pt. 1</b>
-- [Verify](https://education.splunk.com/award/completion/22830d48-5c61-3e69-829c-12a33c67a5c9/view-ext)
-- <b>A+ Certification</b>
-- [Verify](https://www.credly.com/badges/8b5c95fa-bccb-422f-8052-b1b3deb5a6bc/linked_in_profile)
+- <b>Splunk 7.x Fundamentals Pt. 1</b> - [Verify](https://education.splunk.com/award/completion/22830d48-5c61-3e69-829c-12a33c67a5c9/view-ext)
+- <b>A+ Certification</b> - [Verify](https://www.credly.com/badges/8b5c95fa-bccb-422f-8052-b1b3deb5a6bc/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
