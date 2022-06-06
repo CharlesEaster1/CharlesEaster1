@@ -4,8 +4,8 @@
 <b>Defensive Security</b>
   - Monitoring failed Rdp login attempts with Micrsoft Sentinel (SIEM). Logging data and monitoring activity in real time.          [(https://github.com/CharlesEaster1/Failed_Rdp_Logins_AzureSentinel)
   
-<b>Cloud Security & Virtualization (Microsoft Azure)</b>
-  
+<b>Assessment, Analysis, and Hardening of a Vulnerable System (Red Team / Blue Team)</b>
+[(https://github.com/CharlesEaster1/Failed_Rdp_Logins_AzureSentinel)
 <b>Ethical Hacking & Penetration</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Cybersecurity & Networking</b>
