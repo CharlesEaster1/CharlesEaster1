@@ -17,7 +17,6 @@
 <h2>Certifications</h2>
   
 - <b>Microsoft Azure Fundamentals)</b>
-  [Verify](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Certified Ethical Hacker (in progress)</b>
 - [Verify](https://education.splunk.com/award/completion/22830d48-5c61-3e69-829c-12a33c67a5c9/view-ext)
 - <b>Splunk 7.x Fundamentals Pt. 1</b>
