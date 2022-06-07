@@ -11,9 +11,9 @@
   <br>
   
 <h2>Systems</h2>
- - <b>Windows and Linux Administration</b>
- - <b>Windows & Linux Hardening</b>
- - <b>Web Technology Architecture & Security</b>
+- <b>Windows and Linux Administration</b>
+- <b>Windows & Linux Hardening</b>
+- <b>Web Technology Architecture & Security</b>
   
 <h2>Certifications</h2>
   
