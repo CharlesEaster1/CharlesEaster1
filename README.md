@@ -5,8 +5,8 @@
   - Monitoring failed Rdp login attempts with Micrsoft Sentinel (SIEM). Logging data and monitoring activity in real time.          (https://github.com/CharlesEaster1/Failed_Rdp_Logins_AzureSentinel)
   <br>
   <br>
-<b>Assessment, Analysis, and Hardening of a Vulnerable System (Red Team / Blue Team)</b>
-(https://github.com/CharlesEaster1/Failed_Rdp_Logins_AzureSentinel](https://github.com/CharlesEaster1/Assessment-Analysis-and-Hardening-of-a-Vulnerable-System-Red-Team-Blue-Team-/blob/main/README.md)
+<b>Assessment, Analysis, and Hardening of a Vulnerable System (Red Team / Blue Team)</b><br>
+[(https://github.com/CharlesEaster1/Assessment-Analysis-and-Hardening-of-a-Vulnerable-System-Red-Team-Blue-Team-)]
   <br>
   <br>
 <b>Ethical Hacking & Penetration</b>
