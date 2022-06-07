@@ -17,7 +17,7 @@
   
 <h2>Certifications</h2>
   
-- <b>Microsoft Azure Fundamentals)</b> Training completed - [Verify](<a href="https://imgur.com/t2v5VUx"><img src="https://i.imgur.com/t2v5VUx.png" title="AZ-900 Course Certificate of Completion" /></a>) Certification in progress
+- <b>Microsoft Azure Fundamentals)</b> Training completed - [Verify](https://i.imgur.com/t2v5VUx.png) Certification in progress
 - <b>Certified Ethical Hacker (in progress)</b>
 - <b>Splunk 7.x Fundamentals Pt. 1</b> - [Verify](https://education.splunk.com/award/completion/22830d48-5c61-3e69-829c-12a33c67a5c9/view-ext)
 - <b>A+ Certification</b> - [Verify](https://www.credly.com/badges/8b5c95fa-bccb-422f-8052-b1b3deb5a6bc/linked_in_profile)
