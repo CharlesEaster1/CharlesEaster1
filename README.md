@@ -2,8 +2,7 @@
 <a href="linkedin.com/in/charlesmeaster">Cybersecurity Professional</a>
 
 <h2>Cybersecurity Projects:</h2>
-<b>Defensive Security</b>
-  - Monitoring failed Rdp login attempts with Micrsoft Sentinel (SIEM). Logging data and monitoring activity in real time.  <br>        (https://github.com/CharlesEaster1/Failed_Rdp_Logins_AzureSentinel)
+- Monitoring failed Rdp login attempts with Micrsoft Sentinel (SIEM). Logging data and monitoring activity in real time.  <br>        (https://github.com/CharlesEaster1/Failed_Rdp_Logins_AzureSentinel)
   <br>
   <br>
 <b>Assessment, Analysis, and Hardening of a Vulnerable System (Red Team / Blue Team)</b><br>
