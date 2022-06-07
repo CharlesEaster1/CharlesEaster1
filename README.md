@@ -1,4 +1,5 @@
-<h1>Hello, my name is Charles.  <br/><a href="https://github.com/CharlesEaster1"></a><a href="linkedin.com/in/charlesmeaster">Cybersecurity Professional</a>
+<h1>Hello, my name is Charles. <br>
+<a href="linkedin.com/in/charlesmeaster">Cybersecurity Professional</a>
 
 <h2>Cybersecurity Projects:</h2>
 <b>Defensive Security</b>
@@ -9,13 +10,11 @@
 [(https://github.com/CharlesEaster1/Assessment-Analysis-and-Hardening-of-a-Vulnerable-System-Red-Team-Blue-Team-)]
   <br>
   <br>
-<b>Ethical Hacking & Penetration</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Cybersecurity & Networking</b>
   
 <b>Systems</b>
-  
-<b>Programming & Scripting: Python</b>
+ - <b>Windows and Linux Administration</b>
+ - <b>Windows & Linux Hardening</b>
+ - <b>Web Technology Architecture & Security</b>
   
 <h2>Certifications</h2>
   
@@ -25,6 +24,8 @@
 - <b>A+ Certification</b> - [Verify](https://www.credly.com/badges/8b5c95fa-bccb-422f-8052-b1b3deb5a6bc/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
+<br>
+https://www.linkedin.com/in/charlesmeaster/
 
 
 <!--
