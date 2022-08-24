@@ -1,5 +1,5 @@
 <h1>Hello, my name is Charles. <br>
-<a href="linkedin.com/in/charlesmeaster">Cybersecurity Professional</a>
+
 
 <h2>Cybersecurity Projects:</h2>
 <b>Brute Force Attack Monitoring with Micrsoft Sentinel (SIEM). Logging data and monitoring activity in real time.</b>  <br>        (https://github.com/CharlesEaster1/Failed_Rdp_Logins_AzureSentinel)
